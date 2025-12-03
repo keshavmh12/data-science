@@ -1,0 +1,9 @@
+id,name,age,department,salary,join_date
+1,John Doe,28,Sales,45000,2021-03-15
+2,jane smith,32,Marketing,52000,2020-07-10
+3,Sam,NaN,HR,48000,2019-11-01
+4,ANNA,26,finance,NaN,2022-01-22
+5,rohit kumar,29,Sales,47000,2021-05-30
+6,Neha,31,MARKETING,51000,NaN
+7,,35,Sales,46000,2020-12-18
+8,Arjun,24,HR,43000,2023-02-27
